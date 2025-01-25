@@ -4,5 +4,8 @@ Must have: Docker, Docker-compose
 
 docker compose up --> docker-compose up
 
+Запуск:
+
 cd project
+
 make up_build
